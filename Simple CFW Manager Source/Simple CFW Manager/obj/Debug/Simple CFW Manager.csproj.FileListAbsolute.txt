@@ -1,0 +1,12 @@
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\bin\Debug\Simple CFW Manager.exe.config
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\bin\Debug\Simple CFW Manager.exe
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\bin\Debug\Simple CFW Manager.pdb
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.csproj.AssemblyReference.cache
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple_CFW_Manager.CFWMenu.resources
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple_CFW_Manager.Properties.Resources.resources
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.csproj.GenerateResource.cache
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.csproj.CoreCompileInputs.cache
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.exe
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.pdb
+C:\Users\joelo\source\repos\Simple CFW Manager\Simple CFW Manager\obj\Debug\Simple CFW Manager.csproj.CopyComplete
